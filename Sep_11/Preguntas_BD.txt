@@ -1,0 +1,15 @@
+BASE DE DATOS:
+marriage- https://github.com/resbaz/data/tree/master/marriage
+
+PREGUNTAS
+
+1-¿Cómo es el índice de divorcios contra el de matrimonios?
+2-comparar matrimonios por clase social
+3-comparar número de matrimonios divorcios con el nivel escolar
+4-comparar hombres contra mujeres
+5-comparar por raza
+6-identificar el año con más bodas, menos bodas, más divorcios, menos divorcios.
+7-media, mediana y moda de matrimonios/divorcios a lo largo de los años
+8-comparar matrimonios por situación laboral
+
+
