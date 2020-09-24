@@ -28,8 +28,8 @@ def dow(url,cat):
 #Gráficos
 #-----------------------------------------------------------------
 
-#hace una grafica de barras comparandolas por años
-#what son las entradas de la tabla, name es el "label" de cada columna de nuestra tabla.
+#Hace una grafica de barras comparandolas por años
+#What son las entradas de la tabla, name es el "label" de cada columna de nuestra tabla.
 def barritas(what,name):
     
     width=0.8/len(what)
