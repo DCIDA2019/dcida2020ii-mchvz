@@ -1,5 +1,5 @@
 ######################################################################################
-#Código colaborativo de Diana Avendaño, Miguel Sánches, Flor Lozano y Salvador Negrete
+#Código colaborativo de Diana Avendaño, Miguel Sánches, Flor Lozano y Salvador Negrete 
 #Equipo 3, Laboratorio de análisis de datos. 
 ######################################################################################
 %reset
