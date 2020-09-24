@@ -189,9 +189,9 @@ print('Mediana',100*median(cat[1]['all_3544']))
 #------------------------------------------------------------------------------------
 #8- Identificar el año con más bodas, menos bodas, más divorcios, menos divorcios.
 #------------------------------------------------------------------------------------
-x=cat[0]['all_3544'][cat[0]['all_3544']==max(cat[0]['all_3544'])]
+x=cat[0]['all_3544'] [cat[0]['all_3544']==max(cat[0]['all_3544'])]
 ma=x.keys()
-x=cat[0]['all_3544'][cat[0]['all_3544']==min(cat[0]['all_3544'])]
+x=cat[0]['all_3544'] [cat[0]['all_3544']==min(cat[0]['all_3544'])]
 mi=x.keys()
 
 prom=100*cat[0]['all_3544'].mean()
@@ -208,9 +208,9 @@ plt.ylabel('% de la población')
 plt.show()
 
 #-------------------------------------------------------------------
-x=cat[1]['all_3544'][cat[1]['all_3544']==max(cat[1]['all_3544'])]
+x=cat[1]['all_3544'] [cat[1]['all_3544']==max(cat[1]['all_3544'])]
 ma=x.keys()
-x=cat[1]['all_3544'][cat[1]['all_3544']==min(cat[1]['all_3544'])]
+x=cat[1]['all_3544'] [cat[1]['all_3544']==min(cat[1]['all_3544'])]
 mi=x.keys()
 
 
@@ -229,7 +229,4 @@ plt.show()
 #--------------------------------------------------------------------
 
       
-      
-      
-      ratio = pd.concat([year, ratio], axis = 1)
-      ratio
+
